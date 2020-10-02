@@ -78,10 +78,14 @@ function Home() {
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
-              <div className="row">
-                {features.map((props, idx) => (
-                  <Feature key={idx} {...props} />
-                ))}
+              <div className="row text--center">
+              <div className="col col--4 col--offset-4">
+                  <p>Онлайн  митапы для веб и мобильных разработчиков от IT-холдинга Казахстана Chocofamily.
+                    Мы стараемся делиться своей экспертизой, а также приглашаем крутых спикеров из СНГ и не только!</p>
+                  <p>
+                    На наших митапах затрагиваются разные технологии и решаемые ими  кейсы.
+                    Присоединиться может любой желающий - митапы открытые и бесплатные.</p>
+                </div>
               </div>
             </div>
           </section>
