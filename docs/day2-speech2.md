@@ -1,7 +1,7 @@
 ---
 id: day2-speech2
 title: Psalm, PHP на стероидах
-image: http://i3.ytimg.com/vi/DCbaKYEpBYE/maxresdefault.jpg
+image: http://i3.ytimg.com/vi/0h2j9Uul2Tk/maxresdefault.jpg
 ---
 
 ### Рассказывает
@@ -16,6 +16,6 @@ enums и дженерики в php.
 
 ### Запись
 
-[![](http://i3.ytimg.com/vi/DCbaKYEpBYE/maxresdefault.jpg)](https://youtu.be/DCbaKYEpBYE)
+[![](http://i3.ytimg.com/vi/0h2j9Uul2Tk/maxresdefault.jpg)](https://youtu.be/0h2j9Uul2Tk)
 
 ### Полезные ссылки
