@@ -2,7 +2,7 @@
 id: day2-speech1
 title: Centrifugo – знакомство с open-source сервером real-time сообщений
 sidebar_label: Centrifugo – знакомство с open-source сервером real-time сообщений
-image: http://i3.ytimg.com/vi/DCbaKYEpBYE/maxresdefault.jpg
+image: http://i3.ytimg.com/vi/3AFrao_6XV4/maxresdefault.jpg
 ---
 
 ### Рассказывает
@@ -21,6 +21,6 @@ real-time сообщения в ваш проект с помощью Centrifugo
     и WebSocket в частности – будет любопытно
 ### Запись
 
-[![](http://i3.ytimg.com/vi/DCbaKYEpBYE/maxresdefault.jpg)](https://youtu.be/DCbaKYEpBYE)
+[![](http://i3.ytimg.com/vi/3AFrao_6XV4/maxresdefault.jpg)](https://youtu.be/3AFrao_6XV4)
 
 ### Полезные ссылки
