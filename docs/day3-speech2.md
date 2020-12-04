@@ -1,5 +1,5 @@
 ---
-id: day3-speech1
+id: day3-speech2
 title: Magical Kotlin - фичи и трюки для Android разработчиков
 sidebar_label: Magical Kotlin - фичи и трюки для Android разработчиков
 image: http://i3.ytimg.com/vi/3AFrao_6XV4/maxresdefault.jpg
